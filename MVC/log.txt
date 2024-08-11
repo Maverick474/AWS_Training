@@ -1,0 +1,6 @@
+1723119928797:::ffff:127.0.0.1 GET: /users/
+1723119966526:::ffff:127.0.0.1 GET: /users
+1723120486833:::ffff:127.0.0.1 DELETE: /api/users
+1723120489977:::ffff:127.0.0.1 DELETE: /api/users/
+1723120517481:::ffff:127.0.0.1 DELETE: /api/users/
+1723120519193:::ffff:127.0.0.1 DELETE: /api/users/
